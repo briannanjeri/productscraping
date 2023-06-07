@@ -1,0 +1,6 @@
+"use strict";
+exports.__esModule = true;
+exports.FETCH_SUGAR_FAILURE = exports.FETCH_SUGAR_SUCCESS = exports.FETCH_SUGAR_REQUEST = void 0;
+exports.FETCH_SUGAR_REQUEST = 'FETCH_SUGARS_REQUEST';
+exports.FETCH_SUGAR_SUCCESS = "FETCH_SUGAR_SUCCESS";
+exports.FETCH_SUGAR_FAILURE = "FETCH_SUGAR_FAILURE";
